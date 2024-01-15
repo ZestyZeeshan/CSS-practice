@@ -1,0 +1,30 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    padding: 5px;
+
+}
+@media  screen and (min-width :200px)
+and (max-width:300px){
+    .box{
+        background-color: blanchedalmond;
+      /*  height: 150px;
+        width: 150px; */
+        /*We dont generally used this width in our css*/
+        border-radius: 50px;
+    }
+
+
+
+}
+/* THis is for learning purpose we dont generally used width in media querry
+@media  screen and (width :300px){
+    .box{
+        background-color: blanchedalmond;
+        /*We dont generally used this width in our css
+    }
+
+
+
+}*/

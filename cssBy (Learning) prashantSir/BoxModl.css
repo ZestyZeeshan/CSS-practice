@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#but{
+    margin: 5px 10px 5px 10px;
+    background-color: aqua;
+    list-style: none;
+    height: 50px;
+    width: 50px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 5px;
+}

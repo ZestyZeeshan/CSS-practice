@@ -1,0 +1,17 @@
+*{
+    margin: 0; padding: 0;
+}
+/* dot class liya hai*/
+.box{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 25;
+    /*Display inline kr skte hai usse same line me ajayega lekin usme height wgera ni set kr skte hmm ye problem hai*/
+    display: inline-block; 
+    /*Height n width set kr skte hai*/
+    /*Display block bhi kr skte hai jo ki bydefault ati hai*/
+
+    /*Display None se hmm hta skte hai*/
+}

@@ -1,0 +1,18 @@
+h1{
+    color: red; background-color: bisque;
+}
+#heading{
+    color: aqua;
+}
+#first_heading{
+    color: blue;
+}
+#second_heading{
+    color: brown;
+}
+#first, #second{
+    color: rgb(211, 226, 43);
+}
+button{
+    color: blue;
+}
